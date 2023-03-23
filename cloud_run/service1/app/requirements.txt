@@ -1,0 +1,8 @@
+requests
+ptvsd # Required for debugging.
+pandas
+pyarrow
+fastparquet
+google-cloud-storage
+gcsfs
+google-cloud-pubsub
